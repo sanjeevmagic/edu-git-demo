@@ -1,0 +1,2 @@
+Hello my name is sanjeev 
+This file is use for the staging and commit operations 
